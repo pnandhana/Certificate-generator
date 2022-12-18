@@ -11,11 +11,12 @@ back-end: python, django
 api: nodejs
 
 
-#How to implement:
+#Implementation:
 run the .py file.
+the html, css, js files are added in the branch named front-end.
 
 
-#Future Scope
+#Future Scopes
 More customisations.
 Directly e-mail as certificates are generated.
 mapping the data from spreadsheet to certificate template more efficiently using AI.
